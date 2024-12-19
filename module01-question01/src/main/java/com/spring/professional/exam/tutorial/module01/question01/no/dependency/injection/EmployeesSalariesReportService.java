@@ -5,14 +5,15 @@ import com.spring.professional.exam.tutorial.module01.question01.commons.dao.Emp
 import com.spring.professional.exam.tutorial.module01.question01.commons.ds.Employee;
 import com.spring.professional.exam.tutorial.module01.question01.commons.ds.EmployeeSalary;
 import com.spring.professional.exam.tutorial.module01.question01.commons.report.PdfSalaryReport;
+import com.spring.professional.exam.tutorial.module01.question01.commons.report.SalaryReport;
 
 import java.util.List;
 
 class EmployeesSalariesReportService {
 
-    private final PdfSalaryReport pdfSalaryReport;
+    private final SalaryReport pdfSalaryReport;
 
-    public EmployeesSalariesReportService(PdfSalaryReport pdfSalaryReport) {
+    public EmployeesSalariesReportService(SalaryReport pdfSalaryReport) {
         this.pdfSalaryReport = pdfSalaryReport;
     }
 
