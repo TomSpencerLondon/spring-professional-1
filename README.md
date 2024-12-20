@@ -132,7 +132,7 @@ Each section corresponds to a key question from the study guide, providing pract
       - Reduced coupling and increased cohesion
 
 2. **Design Patterns and Anti-patterns**
-   - Examples of patterns (Factory, Builder, etc.) and anti-patterns (God Object, Circular Dependency, etc.)
+   - Examples of patterns (Factory, Builder, Observer, Strategy, Adapter, Decorator etc.) and anti-patterns (God Object, Circular Dependency, etc.)
    - Dependency Injection as a design pattern.
 
 3. **Interfaces**
