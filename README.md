@@ -101,7 +101,23 @@ src/main/resources
 ---
 # Module 01: Container, Dependency, and IoC
 
-This repository demonstrates the concepts and answers related to **Module 01: Container, Dependency, and IoC** of the Spring Professional Certification study guide. It explains the foundational principles of Spring's core features, including Dependency Injection, the ApplicationContext, and bean lifecycle management.
+This repository demonstrates the concepts and answers related to **Module 01: Container, Dependency, and IoC** of the Spring Professional Certification study guide.
+
+## Other Modules in This Series
+- **Module 01** - Container, Dependency, and IoC
+- **Module 02** - Aspect Oriented Programming
+- **Module 03** - Data Management: JDBC, Transactions, JPA, Spring Data
+- **Module 04** - Spring Boot
+- **Module 05** - Spring MVC and The Web Layer
+- **Module 06** - Security
+- **Module 07** - REST
+- **Module 08** - Testing
+
+## About Module 01
+Here in **Module 01**, we explain the foundational principles of Spring's core features, including:
+- Dependency Injection
+- The ApplicationContext
+- Bean lifecycle management
 
 Each section corresponds to a key question from the study guide, providing practical implementations to help deepen understanding.
 
